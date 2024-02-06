@@ -4,7 +4,7 @@
 
 ## Introduction
 
-🚀 Welcome to Lenx Finance – where we are revolutionizing the world of decentralized finance (DeFi). Our mission is to bridge the gap between traditional non-smart contract blockchains like Bitcoin and Dogecoin and the Ethereum Virtual Machine (EVM) ecosystem. We do this through our innovative blockchain, Zetachain, which is seamlessly connected to Omnichain, enabling cross-chain interactions and empowering users to explore new possibilities in DeFi.
+🚀 Welcome to Lenx Finance – where we are revolutionizing the world of decentralized finance (DeFi). Our mission is to enable native BTC lending on Zetachain. We do this by making use of the omnichain capabilities of Zetachain, enabling cross-chain interactions and empowering users to explore new possibilities in DeFi.
 
 ## Technologies We Love
 
@@ -12,7 +12,7 @@
 
 - **Ethereum Virtual Machine (EVM)**: The backbone of our DeFi ecosystem, enabling smart contract execution and interoperability.
 - **Solidity**: Our smart contracts are built with Solidity, ensuring security and efficiency.
-- **Zetachain**: Our unique blockchain that facilitates interoperability with non-smart contract blockchains.
+- **Zetachain**: Our home blockchain that facilitates interoperability with non-smart contract blockchains.
 - **Cosmos**: A key component in our cross-chain infrastructure.
 - **Next.js**: For building efficient and responsive user interfaces.
 
