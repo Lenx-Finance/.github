@@ -1,6 +1,6 @@
 # Welcome to Lenx Finance 👋
 
-![Lenx Finance Banner](../156704684_banner.png)
+![Lenx Finance Banner](https://github.com/Lenx-Finance/.github/blob/5df409aab62eba3f7f4f2b3bf761b3e0b494a8c5/156704684_banner.png)
 
 ## Introduction
 
